@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rithik035
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Backend
+- 🌱 I’m continously improving in Backend
 - 📫 How to reach me ... rithikprofessional@gmail.com
 - ⚡ Fun fact: ... i am Fresher
 
